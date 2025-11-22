@@ -1,4 +1,4 @@
-## Ankit Srivastava · Portfolio 2025
+## Ankit Tiwary · Portfolio 2025
 
 A premium, animation-forward portfolio built with Next.js App Router, Tailwind, and Framer Motion. It ships fully responsive UI, light/dark mode with persistence, scroll-triggered reveals, lazy-loaded media, a modal case study gallery, optional content sections, and an email-ready contact form powered by Resend.
 
