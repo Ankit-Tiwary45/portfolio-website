@@ -17,24 +17,24 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://ankit-portfolio.example.com"),
   title: {
-    default: "Ankit Srivastava · Product-Focused Frontend Engineer",
-    template: "%s · Ankit Srivastava",
+    default: "Ankit Tiwary · Full Stack Developer",
+    template: "%s · Ankit Tiwary",
   },
   description:
-    "Modern portfolio for Ankit Srivastava showcasing immersive hero, rich case studies, motion-heavy storytelling, and a production-ready contact workflow.",
+    "Modern portfolio for Ankit Tiwary showcasing immersive hero, rich case studies, motion-heavy storytelling, and a production-ready contact workflow.",
   keywords: [
     "Portfolio",
-    "Frontend Engineer",
+    "Full Stack Developer",
     "Next.js",
     "Product Design",
     "Framer Motion",
   ],
   openGraph: {
-    title: "Ankit Srivastava · Product-Focused Frontend Engineer",
+    title: "Ankit Tiwary · Full Stack Developer",
     description:
       "Modern portfolio designed with Next.js, Tailwind, and Framer Motion. Explore case studies, skills, and contact flows.",
     url: "https://ankit-portfolio.example.com",
-    siteName: "Ankit Srivastava Portfolio",
+    siteName: "Ankit Tiwary Portfolio",
     images: [
       {
         url: "/og-image.svg",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@ankit",
     creator: "@ankit",
-    title: "Ankit Srivastava · Product-Focused Frontend Engineer",
+    title: "Ankit Tiwary · Full Stack Developer",
     description:
       "Modern portfolio designed with Next.js, Tailwind, and Framer Motion. Explore case studies, skills, and contact flows.",
     images: ["/og-image.svg"],
